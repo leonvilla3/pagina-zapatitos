@@ -1,0 +1,812 @@
+[
+  {
+    "id": "diabeticos-caballero",
+    "title": "Diabeticos Caballero",
+    "products": [
+      {
+        "code": "28296",
+        "image": "/products/Diabeticos Caballero/28296/42296NG.png",
+        "allImages": [
+          "/products/Diabeticos Caballero/28296/42296NG.png"
+        ]
+      },
+      {
+        "code": "Dados de baja",
+        "image": "/products/Diabeticos Caballero/Dados de baja/17318.png",
+        "allImages": [
+          "/products/Diabeticos Caballero/Dados de baja/17318.png",
+          "/products/Diabeticos Caballero/Dados de baja/17509.png",
+          "/products/Diabeticos Caballero/Dados de baja/19846 NEGRO.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "diabeticos-dama",
+    "title": "Diabeticos Dama",
+    "products": [
+      {
+        "code": "11663",
+        "image": "/products/Diabeticos Dama/11663/11663-1.png",
+        "allImages": [
+          "/products/Diabeticos Dama/11663/11663-1.png",
+          "/products/Diabeticos Dama/11663/11663-2.png",
+          "/products/Diabeticos Dama/11663/11663negro.png"
+        ]
+      },
+      {
+        "code": "41867",
+        "image": "/products/Diabeticos Dama/41867/4187 CAFE.png",
+        "allImages": [
+          "/products/Diabeticos Dama/41867/4187 CAFE.png",
+          "/products/Diabeticos Dama/41867/4187negro.png"
+        ]
+      },
+      {
+        "code": "48333",
+        "image": "/products/Diabeticos Dama/48333/48333NG.png",
+        "allImages": [
+          "/products/Diabeticos Dama/48333/48333NG.png",
+          "/products/Diabeticos Dama/48333/48333negra.png"
+        ]
+      },
+      {
+        "code": "48998",
+        "image": "/products/Diabeticos Dama/48998/48998NG lado.png",
+        "allImages": [
+          "/products/Diabeticos Dama/48998/48998NG lado.png"
+        ]
+      },
+      {
+        "code": "58533",
+        "image": "/products/Diabeticos Dama/58533/58533.png",
+        "allImages": [
+          "/products/Diabeticos Dama/58533/58533.png",
+          "/products/Diabeticos Dama/58533/58533negro.png"
+        ]
+      },
+      {
+        "code": "81468",
+        "image": "/products/Diabeticos Dama/81468/81468cafe.png",
+        "allImages": [
+          "/products/Diabeticos Dama/81468/81468cafe.png"
+        ]
+      },
+      {
+        "code": "Dados de baja",
+        "image": "/products/Diabeticos Dama/Dados de baja/48317-2.png",
+        "allImages": [
+          "/products/Diabeticos Dama/Dados de baja/48317-2.png",
+          "/products/Diabeticos Dama/Dados de baja/48408-2.png",
+          "/products/Diabeticos Dama/Dados de baja/48424-1.png",
+          "/products/Diabeticos Dama/Dados de baja/48424-2.png",
+          "/products/Diabeticos Dama/Dados de baja/58512negro.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "formativos-de-nina",
+    "title": "Formativos de niña",
+    "products": [
+      {
+        "code": "3452",
+        "image": "/products/Formativos de niña/3452/3452ng frente.png",
+        "allImages": [
+          "/products/Formativos de niña/3452/3452ng frente.png",
+          "/products/Formativos de niña/3452/3452ng lado.png",
+          "/products/Formativos de niña/3452/3452ng.png"
+        ]
+      },
+      {
+        "code": "3590",
+        "image": "/products/Formativos de niña/3590/3590ch frente.png",
+        "allImages": [
+          "/products/Formativos de niña/3590/3590ch frente.png",
+          "/products/Formativos de niña/3590/3590ch lado.png",
+          "/products/Formativos de niña/3590/3590ch.png",
+          "/products/Formativos de niña/3590/3590choco.png"
+        ]
+      },
+      {
+        "code": "3621",
+        "image": "/products/Formativos de niña/3621/3621be frente.png",
+        "allImages": [
+          "/products/Formativos de niña/3621/3621be frente.png",
+          "/products/Formativos de niña/3621/3621be lado.png",
+          "/products/Formativos de niña/3621/3621be.png",
+          "/products/Formativos de niña/3621/3621beige.png",
+          "/products/Formativos de niña/3621/3621ro frente.png",
+          "/products/Formativos de niña/3621/3621ro lado.png",
+          "/products/Formativos de niña/3621/3621ro.png"
+        ]
+      },
+      {
+        "code": "3622",
+        "image": "/products/Formativos de niña/3622/3622ar frente.png",
+        "allImages": [
+          "/products/Formativos de niña/3622/3622ar frente.png",
+          "/products/Formativos de niña/3622/3622ar lado.png",
+          "/products/Formativos de niña/3622/3622ar.png"
+        ]
+      },
+      {
+        "code": "3624",
+        "image": "/products/Formativos de niña/3624/3624ar frente.png",
+        "allImages": [
+          "/products/Formativos de niña/3624/3624ar frente.png",
+          "/products/Formativos de niña/3624/3624ar lado.png",
+          "/products/Formativos de niña/3624/3624ar.png"
+        ]
+      },
+      {
+        "code": "3661",
+        "image": "/products/Formativos de niña/3661/3661ar frente.png",
+        "allImages": [
+          "/products/Formativos de niña/3661/3661ar frente.png",
+          "/products/Formativos de niña/3661/3661ar lado.png",
+          "/products/Formativos de niña/3661/3661ar.png",
+          "/products/Formativos de niña/3661/3661ro frente.png",
+          "/products/Formativos de niña/3661/3661ro lado.png"
+        ]
+      },
+      {
+        "code": "3662",
+        "image": "/products/Formativos de niña/3662/3662be frente.png",
+        "allImages": [
+          "/products/Formativos de niña/3662/3662be frente.png",
+          "/products/Formativos de niña/3662/3662be lado.png",
+          "/products/Formativos de niña/3662/3662be.png"
+        ]
+      },
+      {
+        "code": "3754",
+        "image": "/products/Formativos de niña/3754/3754az frente.png",
+        "allImages": [
+          "/products/Formativos de niña/3754/3754az frente.png",
+          "/products/Formativos de niña/3754/3754az lado.png",
+          "/products/Formativos de niña/3754/3754az.png"
+        ]
+      },
+      {
+        "code": "3755",
+        "image": "/products/Formativos de niña/3755/3755ar frente.png",
+        "allImages": [
+          "/products/Formativos de niña/3755/3755ar frente.png",
+          "/products/Formativos de niña/3755/3755ar lado.png",
+          "/products/Formativos de niña/3755/3755ar.png",
+          "/products/Formativos de niña/3755/3755ch frente.png",
+          "/products/Formativos de niña/3755/3755ch lado.png",
+          "/products/Formativos de niña/3755/3755ch.png"
+        ]
+      },
+      {
+        "code": "3756",
+        "image": "/products/Formativos de niña/3756/3756 lado.png",
+        "allImages": [
+          "/products/Formativos de niña/3756/3756 lado.png",
+          "/products/Formativos de niña/3756/3756ch  frente.png",
+          "/products/Formativos de niña/3756/3756ch.png"
+        ]
+      },
+      {
+        "code": "3762",
+        "image": "/products/Formativos de niña/3762/3762ch_ro frente.png",
+        "allImages": [
+          "/products/Formativos de niña/3762/3762ch_ro frente.png",
+          "/products/Formativos de niña/3762/3762ch_ro lado.png",
+          "/products/Formativos de niña/3762/3762ch_ro.png"
+        ]
+      },
+      {
+        "code": "Dados de baja",
+        "image": "/products/Formativos de niña/Dados de baja/3710ng.png",
+        "allImages": [
+          "/products/Formativos de niña/Dados de baja/3710ng.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "formativos-de-nino",
+    "title": "Formativos de niño",
+    "products": [
+      {
+        "code": "3020",
+        "image": "/products/Formativos de niño/3020/3020AR1.png",
+        "allImages": [
+          "/products/Formativos de niño/3020/3020AR1.png"
+        ]
+      },
+      {
+        "code": "3210",
+        "image": "/products/Formativos de niño/3210/3210CC1.png",
+        "allImages": [
+          "/products/Formativos de niño/3210/3210CC1.png"
+        ]
+      },
+      {
+        "code": "3230",
+        "image": "/products/Formativos de niño/3230/3230NG1.png",
+        "allImages": [
+          "/products/Formativos de niño/3230/3230NG1.png"
+        ]
+      },
+      {
+        "code": "3250",
+        "image": "/products/Formativos de niño/3250/3250AR1.png",
+        "allImages": [
+          "/products/Formativos de niño/3250/3250AR1.png"
+        ]
+      },
+      {
+        "code": "3270",
+        "image": "/products/Formativos de niño/3270/3270cafe.png",
+        "allImages": [
+          "/products/Formativos de niño/3270/3270cafe.png"
+        ]
+      },
+      {
+        "code": "Dados de baja",
+        "image": "/products/Formativos de niño/Dados de baja/3010 ARENA.png",
+        "allImages": [
+          "/products/Formativos de niño/Dados de baja/3010 ARENA.png",
+          "/products/Formativos de niño/Dados de baja/3041 azul.png",
+          "/products/Formativos de niño/Dados de baja/3041AZUL.png",
+          "/products/Formativos de niño/Dados de baja/3060 CAFE.png",
+          "/products/Formativos de niño/Dados de baja/3111 AZUL.png",
+          "/products/Formativos de niño/Dados de baja/3230CELESTE.png",
+          "/products/Formativos de niño/Dados de baja/3330 CAFE.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ortopedicos-hrecta-nina",
+    "title": "Ortopedicos HRecta Niña",
+    "products": [
+      {
+        "code": "9132 CAFE",
+        "image": "/products/Ortopedicos HRecta Niña/9132 CAFE.png",
+        "allImages": [
+          "/products/Ortopedicos HRecta Niña/9132 CAFE.png"
+        ]
+      },
+      {
+        "code": "9132 NEGRO",
+        "image": "/products/Ortopedicos HRecta Niña/9132 NEGRO.png",
+        "allImages": [
+          "/products/Ortopedicos HRecta Niña/9132 NEGRO.png"
+        ]
+      },
+      {
+        "code": "9132cafe",
+        "image": "/products/Ortopedicos HRecta Niña/9132cafe.png",
+        "allImages": [
+          "/products/Ortopedicos HRecta Niña/9132cafe.png"
+        ]
+      },
+      {
+        "code": "9143 AZUL",
+        "image": "/products/Ortopedicos HRecta Niña/9143 AZUL.png",
+        "allImages": [
+          "/products/Ortopedicos HRecta Niña/9143 AZUL.png"
+        ]
+      },
+      {
+        "code": "9143 BLANCO",
+        "image": "/products/Ortopedicos HRecta Niña/9143 BLANCO.png",
+        "allImages": [
+          "/products/Ortopedicos HRecta Niña/9143 BLANCO.png"
+        ]
+      },
+      {
+        "code": "9144 NEGRO",
+        "image": "/products/Ortopedicos HRecta Niña/9144 NEGRO.png",
+        "allImages": [
+          "/products/Ortopedicos HRecta Niña/9144 NEGRO.png"
+        ]
+      },
+      {
+        "code": "9163 CAFE",
+        "image": "/products/Ortopedicos HRecta Niña/9163 CAFE.png",
+        "allImages": [
+          "/products/Ortopedicos HRecta Niña/9163 CAFE.png"
+        ]
+      },
+      {
+        "code": "9163 CHOCOLATE",
+        "image": "/products/Ortopedicos HRecta Niña/9163 CHOCOLATE.png",
+        "allImages": [
+          "/products/Ortopedicos HRecta Niña/9163 CHOCOLATE.png"
+        ]
+      },
+      {
+        "code": "9163 NEGRO",
+        "image": "/products/Ortopedicos HRecta Niña/9163 NEGRO.png",
+        "allImages": [
+          "/products/Ortopedicos HRecta Niña/9163 NEGRO.png"
+        ]
+      },
+      {
+        "code": "9184 CHOCOLATE",
+        "image": "/products/Ortopedicos HRecta Niña/9184 CHOCOLATE.png",
+        "allImages": [
+          "/products/Ortopedicos HRecta Niña/9184 CHOCOLATE.png"
+        ]
+      },
+      {
+        "code": "9970 NEGRO",
+        "image": "/products/Ortopedicos HRecta Niña/9970 NEGRO.png",
+        "allImages": [
+          "/products/Ortopedicos HRecta Niña/9970 NEGRO.png"
+        ]
+      },
+      {
+        "code": "9980 NEGRO",
+        "image": "/products/Ortopedicos HRecta Niña/9980 NEGRO.png",
+        "allImages": [
+          "/products/Ortopedicos HRecta Niña/9980 NEGRO.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ortopedicos-hrecta-nino",
+    "title": "Ortopedicos HRecta niño",
+    "products": [
+      {
+        "code": "9013 CAFE",
+        "image": "/products/Ortopedicos HRecta niño/9013 CAFE.png",
+        "allImages": [
+          "/products/Ortopedicos HRecta niño/9013 CAFE.png"
+        ]
+      },
+      {
+        "code": "9016 CRAZY AZUL-VDE",
+        "image": "/products/Ortopedicos HRecta niño/9016 CRAZY AZUL-VDE.png",
+        "allImages": [
+          "/products/Ortopedicos HRecta niño/9016 CRAZY AZUL-VDE.png"
+        ]
+      },
+      {
+        "code": "9038 CHOCOLATE",
+        "image": "/products/Ortopedicos HRecta niño/9038 CHOCOLATE.png",
+        "allImages": [
+          "/products/Ortopedicos HRecta niño/9038 CHOCOLATE.png"
+        ]
+      },
+      {
+        "code": "9038 CRAZY NEGRO",
+        "image": "/products/Ortopedicos HRecta niño/9038 CRAZY NEGRO.png",
+        "allImages": [
+          "/products/Ortopedicos HRecta niño/9038 CRAZY NEGRO.png"
+        ]
+      },
+      {
+        "code": "9072NEGRO",
+        "image": "/products/Ortopedicos HRecta niño/9072NEGRO.png",
+        "allImages": [
+          "/products/Ortopedicos HRecta niño/9072NEGRO.png"
+        ]
+      },
+      {
+        "code": "9075CHOCOLATE",
+        "image": "/products/Ortopedicos HRecta niño/9075CHOCOLATE.png",
+        "allImages": [
+          "/products/Ortopedicos HRecta niño/9075CHOCOLATE.png"
+        ]
+      },
+      {
+        "code": "9084NEGRO",
+        "image": "/products/Ortopedicos HRecta niño/9084NEGRO.png",
+        "allImages": [
+          "/products/Ortopedicos HRecta niño/9084NEGRO.png"
+        ]
+      },
+      {
+        "code": "9520 NEGRO",
+        "image": "/products/Ortopedicos HRecta niño/9520 NEGRO.png",
+        "allImages": [
+          "/products/Ortopedicos HRecta niño/9520 NEGRO.png"
+        ]
+      },
+      {
+        "code": "9540 CHOCOLATE",
+        "image": "/products/Ortopedicos HRecta niño/9540 CHOCOLATE.png",
+        "allImages": [
+          "/products/Ortopedicos HRecta niño/9540 CHOCOLATE.png"
+        ]
+      },
+      {
+        "code": "9570 NEGRO",
+        "image": "/products/Ortopedicos HRecta niño/9570 NEGRO.png",
+        "allImages": [
+          "/products/Ortopedicos HRecta niño/9570 NEGRO.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ortopedicos-hregular-nina",
+    "title": "Ortopedicos HRegular niña",
+    "products": [
+      {
+        "code": "9710 CHOCOLATE",
+        "image": "/products/Ortopedicos HRegular niña/9710 CHOCOLATE.png",
+        "allImages": [
+          "/products/Ortopedicos HRegular niña/9710 CHOCOLATE.png"
+        ]
+      },
+      {
+        "code": "9710 NEGRO",
+        "image": "/products/Ortopedicos HRegular niña/9710 NEGRO.png",
+        "allImages": [
+          "/products/Ortopedicos HRegular niña/9710 NEGRO.png"
+        ]
+      },
+      {
+        "code": "9732 NEGRO",
+        "image": "/products/Ortopedicos HRegular niña/9732 NEGRO.png",
+        "allImages": [
+          "/products/Ortopedicos HRegular niña/9732 NEGRO.png"
+        ]
+      },
+      {
+        "code": "9741 NEGRO",
+        "image": "/products/Ortopedicos HRegular niña/9741 NEGRO.png",
+        "allImages": [
+          "/products/Ortopedicos HRegular niña/9741 NEGRO.png"
+        ]
+      },
+      {
+        "code": "9742 CAFE",
+        "image": "/products/Ortopedicos HRegular niña/9742 CAFE.png",
+        "allImages": [
+          "/products/Ortopedicos HRegular niña/9742 CAFE.png"
+        ]
+      },
+      {
+        "code": "9743 BLANCO",
+        "image": "/products/Ortopedicos HRegular niña/9743 BLANCO.png",
+        "allImages": [
+          "/products/Ortopedicos HRegular niña/9743 BLANCO.png"
+        ]
+      },
+      {
+        "code": "9743 CAFE",
+        "image": "/products/Ortopedicos HRegular niña/9743 CAFE.png",
+        "allImages": [
+          "/products/Ortopedicos HRegular niña/9743 CAFE.png"
+        ]
+      },
+      {
+        "code": "9743 CHOCOLATE",
+        "image": "/products/Ortopedicos HRegular niña/9743 CHOCOLATE.png",
+        "allImages": [
+          "/products/Ortopedicos HRegular niña/9743 CHOCOLATE.png"
+        ]
+      },
+      {
+        "code": "9744 AZUL",
+        "image": "/products/Ortopedicos HRegular niña/9744 AZUL.png",
+        "allImages": [
+          "/products/Ortopedicos HRegular niña/9744 AZUL.png"
+        ]
+      },
+      {
+        "code": "9744 NEGRO",
+        "image": "/products/Ortopedicos HRegular niña/9744 NEGRO.png",
+        "allImages": [
+          "/products/Ortopedicos HRegular niña/9744 NEGRO.png"
+        ]
+      },
+      {
+        "code": "9763 CHOCOLATE",
+        "image": "/products/Ortopedicos HRegular niña/9763 CHOCOLATE.png",
+        "allImages": [
+          "/products/Ortopedicos HRegular niña/9763 CHOCOLATE.png"
+        ]
+      },
+      {
+        "code": "9763 CRAZY AZUL",
+        "image": "/products/Ortopedicos HRegular niña/9763 CRAZY AZUL.png",
+        "allImages": [
+          "/products/Ortopedicos HRegular niña/9763 CRAZY AZUL.png"
+        ]
+      },
+      {
+        "code": "9763 NEGRO copia",
+        "image": "/products/Ortopedicos HRegular niña/9763 NEGRO copia.png",
+        "allImages": [
+          "/products/Ortopedicos HRegular niña/9763 NEGRO copia.png"
+        ]
+      },
+      {
+        "code": "9763 NEGRO",
+        "image": "/products/Ortopedicos HRegular niña/9763 NEGRO.png",
+        "allImages": [
+          "/products/Ortopedicos HRegular niña/9763 NEGRO.png"
+        ]
+      },
+      {
+        "code": "9783 CRAZY AZUL",
+        "image": "/products/Ortopedicos HRegular niña/9783 CRAZY AZUL.png",
+        "allImages": [
+          "/products/Ortopedicos HRegular niña/9783 CRAZY AZUL.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ortopedicos-hregular-nino",
+    "title": "Ortopedicos HRegular niño",
+    "products": [
+      {
+        "code": "9613 CAFE",
+        "image": "/products/Ortopedicos HRegular niño/9613 CAFE.png",
+        "allImages": [
+          "/products/Ortopedicos HRegular niño/9613 CAFE.png"
+        ]
+      },
+      {
+        "code": "9613 NEGRO",
+        "image": "/products/Ortopedicos HRegular niño/9613 NEGRO.png",
+        "allImages": [
+          "/products/Ortopedicos HRegular niño/9613 NEGRO.png"
+        ]
+      },
+      {
+        "code": "9616 CAFE",
+        "image": "/products/Ortopedicos HRegular niño/9616 CAFE.png",
+        "allImages": [
+          "/products/Ortopedicos HRegular niño/9616 CAFE.png"
+        ]
+      },
+      {
+        "code": "9616 CRAZY AZUL-VDE",
+        "image": "/products/Ortopedicos HRegular niño/9616 CRAZY AZUL-VDE.png",
+        "allImages": [
+          "/products/Ortopedicos HRegular niño/9616 CRAZY AZUL-VDE.png"
+        ]
+      },
+      {
+        "code": "9616 NEGRO",
+        "image": "/products/Ortopedicos HRegular niño/9616 NEGRO.png",
+        "allImages": [
+          "/products/Ortopedicos HRegular niño/9616 NEGRO.png"
+        ]
+      },
+      {
+        "code": "9638 CCRAZY NEGRO",
+        "image": "/products/Ortopedicos HRegular niño/9638 CCRAZY NEGRO.png",
+        "allImages": [
+          "/products/Ortopedicos HRegular niño/9638 CCRAZY NEGRO.png"
+        ]
+      },
+      {
+        "code": "9638 CHOCOLATE",
+        "image": "/products/Ortopedicos HRegular niño/9638 CHOCOLATE.png",
+        "allImages": [
+          "/products/Ortopedicos HRegular niño/9638 CHOCOLATE.png"
+        ]
+      },
+      {
+        "code": "9672 COMBINADO",
+        "image": "/products/Ortopedicos HRegular niño/9672 COMBINADO.png",
+        "allImages": [
+          "/products/Ortopedicos HRegular niño/9672 COMBINADO.png"
+        ]
+      },
+      {
+        "code": "9672 NEGRO",
+        "image": "/products/Ortopedicos HRegular niño/9672 NEGRO.png",
+        "allImages": [
+          "/products/Ortopedicos HRegular niño/9672 NEGRO.png"
+        ]
+      },
+      {
+        "code": "9675 CHOCOLATE",
+        "image": "/products/Ortopedicos HRegular niño/9675 CHOCOLATE.png",
+        "allImages": [
+          "/products/Ortopedicos HRegular niño/9675 CHOCOLATE.png"
+        ]
+      },
+      {
+        "code": "9676 NEGRO",
+        "image": "/products/Ortopedicos HRegular niño/9676 NEGRO.png",
+        "allImages": [
+          "/products/Ortopedicos HRegular niño/9676 NEGRO.png"
+        ]
+      },
+      {
+        "code": "9683 NEGRO",
+        "image": "/products/Ortopedicos HRegular niño/9683 NEGRO.png",
+        "allImages": [
+          "/products/Ortopedicos HRegular niño/9683 NEGRO.png"
+        ]
+      },
+      {
+        "code": "9684 CHOCOLATE",
+        "image": "/products/Ortopedicos HRegular niño/9684 CHOCOLATE.png",
+        "allImages": [
+          "/products/Ortopedicos HRegular niño/9684 CHOCOLATE.png"
+        ]
+      },
+      {
+        "code": "9684 NEGRO",
+        "image": "/products/Ortopedicos HRegular niño/9684 NEGRO.png",
+        "allImages": [
+          "/products/Ortopedicos HRegular niño/9684 NEGRO.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "productos-de-gel-y-fajas",
+    "title": "Productos de gel y fajas",
+    "products": [
+      {
+        "code": "Fajas Ortopedicas",
+        "image": "/products/Productos de gel y fajas/Fajas Ortopedicas/209 tobillera futbol.png",
+        "allImages": [
+          "/products/Productos de gel y fajas/Fajas Ortopedicas/209 tobillera futbol.png",
+          "/products/Productos de gel y fajas/Fajas Ortopedicas/28147 kinesiology tape.png",
+          "/products/Productos de gel y fajas/Fajas Ortopedicas/300 muñequera ferula y palmar.png",
+          "/products/Productos de gel y fajas/Fajas Ortopedicas/3333 rodillera ajustable flejes metalicos.png",
+          "/products/Productos de gel y fajas/Fajas Ortopedicas/400 muñequera con doble cincha.png",
+          "/products/Productos de gel y fajas/Fajas Ortopedicas/4518 muñequera estabilizadora de pulgar.png",
+          "/products/Productos de gel y fajas/Fajas Ortopedicas/4539 rodillera flejes elasticos neopreno.png",
+          "/products/Productos de gel y fajas/Fajas Ortopedicas/4552 tobillera articulada lite.png",
+          "/products/Productos de gel y fajas/Fajas Ortopedicas/4556 tobillera gel frio.png",
+          "/products/Productos de gel y fajas/Fajas Ortopedicas/57927 cincha itb ( sindrome iliotibial).png",
+          "/products/Productos de gel y fajas/Fajas Ortopedicas/70207 codera con almohadilla de gel.png",
+          "/products/Productos de gel y fajas/Fajas Ortopedicas/964 tobillera tubular.JPG",
+          "/products/Productos de gel y fajas/Fajas Ortopedicas/964 tobillera tubular.png",
+          "/products/Productos de gel y fajas/Fajas Ortopedicas/965 guante de compresion.png",
+          "/products/Productos de gel y fajas/Fajas Ortopedicas/980  venda para el talon de aquiles.png",
+          "/products/Productos de gel y fajas/Fajas Ortopedicas/985 rodillera chot pat dual.png",
+          "/products/Productos de gel y fajas/Fajas Ortopedicas/993 cincha rotuliana.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "servicios",
+    "title": "Servicios",
+    "products": [
+      {
+        "code": "Alza en suela 1",
+        "image": "/products/Servicios/Alza en suela 1.png",
+        "allImages": [
+          "/products/Servicios/Alza en suela 1.png"
+        ]
+      },
+      {
+        "code": "Alza en suela 2",
+        "image": "/products/Servicios/Alza en suela 2.png",
+        "allImages": [
+          "/products/Servicios/Alza en suela 2.png"
+        ]
+      },
+      {
+        "code": "Alza en suela 3",
+        "image": "/products/Servicios/Alza en suela 3.png",
+        "allImages": [
+          "/products/Servicios/Alza en suela 3.png"
+        ]
+      },
+      {
+        "code": "Alza en suela 4",
+        "image": "/products/Servicios/Alza en suela 4.png",
+        "allImages": [
+          "/products/Servicios/Alza en suela 4.png"
+        ]
+      },
+      {
+        "code": "Plantilla -0",
+        "image": "/products/Servicios/Plantilla -0.png",
+        "allImages": [
+          "/products/Servicios/Plantilla -0.png"
+        ]
+      },
+      {
+        "code": "Plantilla para amputado-1",
+        "image": "/products/Servicios/Plantilla para amputado-1.png",
+        "allImages": [
+          "/products/Servicios/Plantilla para amputado-1.png"
+        ]
+      },
+      {
+        "code": "Plantilla para amputado-2",
+        "image": "/products/Servicios/Plantilla para amputado-2.png",
+        "allImages": [
+          "/products/Servicios/Plantilla para amputado-2.png"
+        ]
+      },
+      {
+        "code": "_DSC7317",
+        "image": "/products/Servicios/_DSC7317.png",
+        "allImages": [
+          "/products/Servicios/_DSC7317.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "zapatos-para-plantillas",
+    "title": "Zapatos para plantillas",
+    "products": [
+      {
+        "code": "1720 CAFE",
+        "image": "/products/Zapatos para plantillas/1720 CAFE.png",
+        "allImages": [
+          "/products/Zapatos para plantillas/1720 CAFE.png"
+        ]
+      },
+      {
+        "code": "1792 BLANCA",
+        "image": "/products/Zapatos para plantillas/1792 BLANCA.png",
+        "allImages": [
+          "/products/Zapatos para plantillas/1792 BLANCA.png"
+        ]
+      },
+      {
+        "code": "2601cafe",
+        "image": "/products/Zapatos para plantillas/2601cafe.png",
+        "allImages": [
+          "/products/Zapatos para plantillas/2601cafe.png"
+        ]
+      },
+      {
+        "code": "2720 ESCOLAR",
+        "image": "/products/Zapatos para plantillas/2720 ESCOLAR.png",
+        "allImages": [
+          "/products/Zapatos para plantillas/2720 ESCOLAR.png"
+        ]
+      },
+      {
+        "code": "6020 tf04",
+        "image": "/products/Zapatos para plantillas/6020 tf04.png",
+        "allImages": [
+          "/products/Zapatos para plantillas/6020 tf04.png"
+        ]
+      },
+      {
+        "code": "6020",
+        "image": "/products/Zapatos para plantillas/6020.png",
+        "allImages": [
+          "/products/Zapatos para plantillas/6020.png"
+        ]
+      },
+      {
+        "code": "6021 tf05",
+        "image": "/products/Zapatos para plantillas/6021 tf05.png",
+        "allImages": [
+          "/products/Zapatos para plantillas/6021 tf05.png"
+        ]
+      },
+      {
+        "code": "7050 fe02",
+        "image": "/products/Zapatos para plantillas/7050 fe02.png",
+        "allImages": [
+          "/products/Zapatos para plantillas/7050 fe02.png"
+        ]
+      },
+      {
+        "code": "7060-7050",
+        "image": "/products/Zapatos para plantillas/7060-7050.png",
+        "allImages": [
+          "/products/Zapatos para plantillas/7060-7050.png"
+        ]
+      },
+      {
+        "code": "7287 c907",
+        "image": "/products/Zapatos para plantillas/7287 c907.png",
+        "allImages": [
+          "/products/Zapatos para plantillas/7287 c907.png"
+        ]
+      }
+    ]
+  }
+]
