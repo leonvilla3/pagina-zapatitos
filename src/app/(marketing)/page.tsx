@@ -54,7 +54,7 @@ export default function Page() {
 
         <div className="container mx-auto px-6 relative z-10">
           <div className="md:w-2/3 lg:w-1/2">
-            <h1 className="text-3xl md:text-5xl font-bold text-[#262262] leading-tight mb-6">
+            <h1 className="text-xl md:text-3xl font-bold text-[#262262] mb-6 whitespace-nowrap">
               Cuidando tus pies desde 1996
             </h1>
             <p className="text-xl text-gray-800 font-medium mb-8">

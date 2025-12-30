@@ -102,7 +102,7 @@ export default function ContactForm() {
             {/* Map */}
             <div className="bg-white p-2 rounded-2xl shadow-sm border border-gray-100 h-[300px] overflow-hidden relative">
               <iframe
-                src="https://maps.google.com/maps?q=El+Cruce,+Escaz%C3%BA&t=&z=15&ie=UTF8&iwloc=&output=embed"
+                src="https://maps.google.com/maps?q=Zapatitos+Medical+Shoes&t=&z=15&ie=UTF8&iwloc=&output=embed"
                 className="w-full h-full rounded-xl"
                 frameBorder="0"
                 style={{ border: 0 }}
