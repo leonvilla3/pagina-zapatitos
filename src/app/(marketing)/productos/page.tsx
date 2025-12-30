@@ -20,19 +20,21 @@ export default function ProductosPage() {
                             href={`/productos/${category.slug}`}
                             className="group relative bg-white rounded-xl shadow-sm hover:shadow-md transition-all duration-300 overflow-hidden flex flex-col md:flex-row min-h-[220px]"
                         >
-                            <div className={`relative h-48 md:h-auto md:w-1/2 overflow-hidden bg-white ${category.slug === 'formativos' ? '' : 'p-2'}`}>
-                                <Image
-                                    src={category.image}
-                                    alt={category.title}
-                                    fill
-                                    className="object-contain transform group-hover:scale-105 transition-transform duration-500"
-                                    sizes="(max-width: 768px) 100vw, 50vw"
-                                />
-                                <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent opacity-60 md:hidden pointer-events-none" />
-                                <div className="absolute bottom-4 left-4 right-4 md:hidden">
-                                    <h2 className="text-2xl font-bold text-white mb-1">{category.title}</h2>
+                            {category.image && (
+                                <div className={`relative h-48 md:h-auto md:w-1/2 overflow-hidden bg-white ${category.slug === 'formativos' ? '' : 'p-2'}`}>
+                                    <Image
+                                        src={category.image}
+                                        alt={category.title}
+                                        fill
+                                        className="object-contain transform group-hover:scale-105 transition-transform duration-500"
+                                        sizes="(max-width: 768px) 100vw, 50vw"
+                                    />
+                                    <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent opacity-60 md:hidden pointer-events-none" />
+                                    <div className="absolute bottom-4 left-4 right-4 md:hidden">
+                                        <h2 className="text-2xl font-bold text-white mb-1">{category.title}</h2>
+                                    </div>
                                 </div>
-                            </div>
+                            )}
                             <div className="p-6 flex-grow flex flex-col justify-center md:w-1/2 bg-white relative z-10">
                                 <h2 className="hidden md:block text-2xl font-bold text-[#262262] mb-2">{category.title}</h2>
                                 <p className="text-gray-600 leading-relaxed text-sm">

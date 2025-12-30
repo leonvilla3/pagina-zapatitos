@@ -6,7 +6,7 @@ export interface CategoryInfo {
 export interface GroupInfo {
     title: string;
     slug: string;
-    image: string;
+    image?: string;
     description?: string;
 }
 
@@ -150,7 +150,6 @@ export const mainCategories: GroupInfo[] = [
     {
         title: 'Otros Productos',
         slug: 'otros-productos',
-        image: '/products/productos-de-gel-y-fajas/ap05.png',
         description: 'Productos de gel, fajas y servicios especializados.'
     }
 ];
