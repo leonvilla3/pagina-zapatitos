@@ -137,7 +137,7 @@ export default function PrivacyPage() {
               <li>
                 <span className="font-medium text-slate-900">Self-Service Deletion:</span> If you want
                 to delete your account and data, use our{' '}
-                <Link className="text-[#262262] underline" href="/marketing/delete-info">
+                <Link className="text-[#262262] underline" href="/delete-info">
                   account deletion request form
                 </Link>{' '}
                 to submit the details securely.

@@ -61,7 +61,7 @@ export default function Page() {
               Especialistas en calzado ortopédico y para diabéticos. Comodidad, salud y estilo en cada paso.
             </p>
             <div className="flex gap-4">
-              <a href="/marketing/productos" className="px-6 py-3 bg-[#262262] text-white rounded-lg hover:bg-[#1a1844] transition shadow-lg">Ver Catálogo</a>
+              <a href="/productos" className="px-6 py-3 bg-[#262262] text-white rounded-lg hover:bg-[#1a1844] transition shadow-lg">Ver Catálogo</a>
             </div>
           </div>
         </div>
