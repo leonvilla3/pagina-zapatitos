@@ -31,18 +31,41 @@ export default function AboutPage() {
           </div>
         </div>
 
+        <div className="bg-[#262262]/5 rounded-3xl p-8 md:p-12 mb-20">
+          <div className="grid md:grid-cols-2 gap-12 items-center">
+            <div className="order-2 md:order-1 relative h-auto min-h-[300px] w-full bg-white rounded-2xl shadow-lg p-8 flex items-center justify-center">
+              <Image
+                src="/images/about/zapatitos-lindos-logo.png"
+                alt="Logo original de Zapatitos Lindos"
+                width={500}
+                height={500}
+                className="object-contain w-full h-full"
+              />
+            </div>
+            <div className="order-1 md:order-2">
+              <h2 className="text-3xl font-bold text-[#262262] mb-6">De &quot;Zapatitos Lindos&quot; a Expertos en Salud</h2>
+              <p className="text-gray-600 leading-relaxed mb-6">
+                Nuestra historia comenzó con un nombre diferente: <strong className="text-[#262262]">Zapatitos Lindos</strong>. En esos primeros días, nuestro enfoque era la ternura y el cuidado de los más pequeños.
+              </p>
+              <p className="text-gray-600 leading-relaxed">
+                Sin embargo, al escuchar las necesidades de nuestras familias, evolucionamos. Entendimos que el cuidado del pie es vital en todas las etapas de la vida. Así, nos transformamos en <strong className="text-[#262262]">Zapatitos Medical Shoes</strong>, un nombre que refleja nuestro compromiso técnico y profesional con la salud ortopédica y diabética, sin perder el cariño de nuestros orígenes.
+              </p>
+            </div>
+          </div>
+        </div>
+
         <div className="prose prose-lg prose-slate max-w-none mb-20">
           <h2 className="text-[#262262] font-bold">Liderazgo Femenino en la Salud del Pie</h2>
           <p>
-            Kathleen Wilson no es solo una empresaria; es una **pionera**. En un mercado donde la comodidad a menudo estaba reñida con la estética, Kathleen vio la oportunidad de cambiar vidas. Con una determinación inquebrantable, se propuso una meta clara: que nadie en Costa Rica tuviera que sacrificar su movilidad por falta del calzado adecuado.
+            Kathleen Wilson no es solo una empresaria; es una <strong className="text-[#262262]">pionera</strong>. En un mercado donde la comodidad a menudo estaba reñida con la estética, Kathleen vio la oportunidad de cambiar vidas. Con una determinación inquebrantable, se propuso una meta clara: que nadie en Costa Rica tuviera que sacrificar su movilidad por falta del calzado adecuado.
           </p>
           <p>
-            Reconocida como una de las mujeres más capaces e increíbles de la industria, Kathleen ha liderado ZapatitosCR con una mezcla única de **rigor científico y calidez humana**. Su profundo conocimiento sobre las necesidades del pie diabético y ortopédico la ha convertido en una referente indiscutible en la GAM.
+            Reconocida como una de las mujeres más capaces e increíbles de la industria, Kathleen ha liderado ZapatitosCR con una mezcla única de <strong className="text-[#262262]">rigor científico y calidez humana</strong>. Su profundo conocimiento sobre las necesidades del pie diabético y ortopédico la ha convertido en una referente indiscutible en la GAM.
           </p>
 
           <h3 className="text-[#262262] font-bold mt-8">Más que Zapatos: Una Misión de Vida</h3>
           <p>
-            Bajo su dirección, ZapatitosCR ha crecido de ser un pequeño emprendimiento a convertirse en el **aliado principal de doctores, terapeutas y familias**. Kathleen entiende que un zapato no es solo un accesorio; es la base de la independencia de una persona mayor, es la seguridad de un niño dando sus primeros pasos, y es el alivio de un paciente diabético.
+            Bajo su dirección, ZapatitosCR ha crecido de ser un pequeño emprendimiento a convertirse en el <strong className="text-[#262262]">aliado principal de doctores, terapeutas y familias</strong>. Kathleen entiende que un zapato no es solo un accesorio; es la base de la independencia de una persona mayor, es la seguridad de un niño dando sus primeros pasos, y es el alivio de un paciente diabético.
           </p>
           <blockquote className="border-l-4 border-[#262262] pl-6 italic text-gray-700 my-8 bg-gray-50 py-4 pr-4 rounded-r-lg">
             &quot;No vendemos zapatos, devolvemos la libertad de caminar sin dolor. Esa es la promesa que mantengo desde el primer día.&quot; — Kathleen Wilson
