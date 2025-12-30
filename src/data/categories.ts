@@ -150,7 +150,7 @@ export const mainCategories: GroupInfo[] = [
     {
         title: 'Otros Productos',
         slug: 'otros-productos',
-        image: '/images/categories/ortopedicos.jpeg', // Placeholder/Fallback
+        image: '/products/productos-de-gel-y-fajas/ap05.png',
         description: 'Productos de gel, fajas y servicios especializados.'
     }
 ];
