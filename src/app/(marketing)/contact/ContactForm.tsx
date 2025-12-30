@@ -89,9 +89,9 @@ export default function ContactForm() {
                     <div className="text-gray-600 mt-1">
                       <div className="grid grid-cols-[120px_1fr] gap-x-2">
                         <span className="font-medium text-gray-800">Lunes - Viernes:</span>
-                        <span>9:00 am - 5:30 pm</span>
+                        <span>9:00 am - 5:30 pm <span className="block text-xs text-gray-400">(jornada continua)</span></span>
                         <span className="font-medium text-gray-800">Sábado:</span>
-                        <span>9:00 am - 3:00 pm</span>
+                        <span>9:00 am - 3:00 pm <span className="block text-xs text-gray-400">(jornada continua)</span></span>
                       </div>
                     </div>
                   </div>

@@ -1,6 +1,6 @@
 'use client';
 import LandingCarousel from '@/components/LandingCarousel';
-import { MapPin, Compass, Headphones, WifiOff, Globe, DollarSign, CalendarIcon, HeartPulse, ShieldCheck } from 'lucide-react';
+import { Activity, ShieldCheck, Wind, Feather, Layers, Tag, CalendarIcon, HeartPulse } from 'lucide-react';
 import Image from 'next/image';
 import { useState, type FormEvent } from 'react';
 
@@ -54,11 +54,11 @@ export default function Page() {
 
         <div className="container mx-auto px-6 relative z-10">
           <div className="md:w-2/3 lg:w-1/2">
-            <h1 className="text-4xl md:text-5xl font-bold text-[#262262] leading-tight mb-6">
+            <h1 className="text-3xl md:text-5xl font-bold text-[#262262] leading-tight mb-6">
               Cuidando tus pies desde 1996
             </h1>
             <p className="text-xl text-gray-800 font-medium mb-8">
-              Especialistas en calzado ortopédico y para diabéticos. Comodidad, salud y estilo en cada paso.
+              Expertos en calzado especializado en diabéticos, ortopédicos, precaminadores y formativo.
             </p>
             <div className="flex gap-4">
               <a href="/productos" className="px-6 py-3 bg-[#262262] text-white rounded-lg hover:bg-[#1a1844] transition shadow-lg">Ver Catálogo</a>
@@ -95,12 +95,14 @@ export default function Page() {
       </section>
 
       {/* Banner */}
-      <section className="w-full h-[300px] md:h-[400px] relative">
+      {/* Banner */}
+      <section className="w-full relative">
         <Image
           src="/images/home/banner-family.jpg"
           alt="Familia feliz usando ZapatitosCR"
-          fill
-          className="object-cover"
+          width={1920}
+          height={600}
+          className="w-full h-auto md:h-[400px] md:object-cover"
           unoptimized
           quality={100}
         />
@@ -116,12 +118,12 @@ export default function Page() {
           </div>
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
             {[
-              { Icon: Compass, title: 'Ergonómicos', text: 'Soporte arco plantar.' },
-              { Icon: Headphones, title: 'Antideslizantes', text: 'Seguridad en cada paso.' },
-              { Icon: WifiOff, title: 'Transpirables', text: 'Pies frescos todo el día.' },
-              { Icon: MapPin, title: 'Ligeros', text: 'Olvidarás que los llevas puestos.' },
-              { Icon: Globe, title: 'Variedad', text: 'Muchos estilos y colores.' },
-              { Icon: DollarSign, title: 'Buen Precio', text: 'Calidad accesible.' },
+              { Icon: Activity, title: 'Ergonómicos', text: 'Soporte arco plantar.' },
+              { Icon: ShieldCheck, title: 'Antideslizantes', text: 'Seguridad en cada paso.' },
+              { Icon: Wind, title: 'Transpirables', text: 'Pies frescos todo el día.' },
+              { Icon: Feather, title: 'Ligeros', text: 'Olvidarás que los llevas puestos.' },
+              { Icon: Layers, title: 'Variedad', text: 'Muchos estilos y colores.' },
+              { Icon: Tag, title: 'Buen Precio', text: 'Calidad accesible.' },
             ].map(({ Icon, title, text }) => (
               <div key={title} className="bg-white p-6 rounded-xl shadow-sm border border-gray-100 hover:shadow-md transition">
                 <div className="w-12 h-12 bg-[#00a4e5]/10 rounded-lg flex items-center justify-center mb-4">
@@ -157,7 +159,7 @@ export default function Page() {
               width="100%"
               height="100%"
               id="gmap_canvas"
-              src="https://maps.google.com/maps?q=El+Cruce,+Escaz%C3%BA&t=&z=15&ie=UTF8&iwloc=&output=embed"
+              src="https://maps.google.com/maps?q=Zapatitos+Medical+Shoes&t=&z=15&ie=UTF8&iwloc=&output=embed"
               frameBorder="0"
               scrolling="no"
               marginHeight={0}

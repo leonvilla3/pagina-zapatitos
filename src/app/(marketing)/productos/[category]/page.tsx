@@ -33,7 +33,7 @@ export default function CategoryPage({ params }: { params: Promise<{ category: s
 
                 <div className="space-y-6">
                     {categoryIds.map((categoryId, index) => (
-                        <SubcategorySection key={categoryId} categoryId={categoryId} defaultOpen={index === 0} />
+                        <SubcategorySection key={categoryId} categoryId={categoryId} defaultOpen={false} />
                     ))}
 
                     {categoryIds.length === 0 && (

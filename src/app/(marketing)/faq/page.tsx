@@ -7,11 +7,11 @@ const dmSans = DM_Sans({ subsets: ['latin'] });
 const faqs: FAQItem[] = [
   {
     question: '¿Cúales son sus horarios de atención?',
-    answer: 'Nuestro horario de atención es de Lunes a Viernes de 9:00 am a 5:30 pm, y Sábados de 9:00 am a 3:00 pm en todas nuestras sucursales.',
+    answer: 'Nuestro horario de atención es de Lunes a Viernes de 9:00 am a 5:30 pm (jornada continua), y Sábados de 9:00 am a 3:00 pm (jornada continua).',
   },
   {
     question: '¿Hacen envíos a todo el país?',
-    answer: 'Sí, realizamos envíos a todo Costa Rica por medio de Correos de Costa Rica. El tiempo estimado de entrega es de 24 a 48 horas hábiles.',
+    answer: 'Sí, realizamos envíos a todo Costa Rica por medio de Correos de Costa Rica. También trabajamos con empresas de encomiendas.',
   },
   {
     question: '¿Cómo sé cuál es la talla correcta?',
@@ -19,7 +19,7 @@ const faqs: FAQItem[] = [
   },
   {
     question: '¿Venden calzado para plantillas ortopédicas?',
-    answer: 'Sí, contamos con una amplia variedad de modelos con profundidad adicional y ajustes especiales, ideales para el uso de plantillas ortopédicas personalizadas.',
+    answer: 'Sí, contamos con una amplia variedad de modelos con Profundidad adicional, contrafuerte reforzado y amplitud de hormas, ideales para el uso de plantillas ortopédicas personalizadas.',
   },
   {
     question: '¿Cuáles son los métodos de pago?',
@@ -31,7 +31,7 @@ const faqs: FAQItem[] = [
   },
   {
     question: '¿Puedo cambiar la talla?',
-    answer: 'Claro, si no te quedan, puedes cambiarlos en cualquiera de nuestras sucursales dentro de los primeros 8 días. El zapato debe estar sin uso y en su caja original.',
+    answer: 'Claro, si no te quedan, puedes cambiarlos en cualquiera de nuestras sucursales dentro de los primeros 30 días. El zapato debe estar sin uso y en su caja original.',
   },
   {
     question: '¿Venden al por mayor?',
