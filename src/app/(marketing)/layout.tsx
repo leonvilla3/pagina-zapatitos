@@ -125,13 +125,7 @@ export default function MarketingLayout({ children }: { children: ReactNode }) {
               </ul>
             </div>
 
-            <div>
-              <h4 className="text-[#262262] text-sm font-semibold mb-4 uppercase tracking-wider">Legal</h4>
-              <ul className="space-y-2 text-sm">
-                <li><Link href="/privacy" className="hover:text-[#262262]">Política de Privacidad</Link></li>
-                <li><Link href="/terms" className="hover:text-[#262262]">Términos de Servicio</Link></li>
-              </ul>
-            </div>
+
           </div>
           <div className="border-t border-gray-100 mt-12 pt-8 text-sm text-center">
             <p>&copy; {new Date().getFullYear()} ZapatitosCR. Todos los derechos reservados.</p>

@@ -24,12 +24,7 @@ Nuestro calzado es especial para el pie diabético y contienen todas las caracte
 
 Nuestro calzado es especial para el pie diabético y contienen todas las características que las diferentes asociaciones de Diabetes a nivel mundial exigen para proteger el pie. Además, ofrecemos variedad de modelos y colores a precios muy accesibles y con una calidad extrema en pieles y combinaciones de tela expandible con piel.`
     },
-    'escolares-para-plantillas': {
-        title: 'Escolares para Plantillas',
-        description: `En algunas ocasiones nuestros hijos no requieren de correcciones en el calzado sino solo plantillas ortopédicas. Para estos casos contamos con modelos fabricados con hormas adecuadas para adaptar estos soportes plantares sin lastimar el pie del niño.
 
-Hemos incluido en nuestro inventario también tennis ortopédicas especiales para estos casos con diseños y colores muy atractivos.`
-    },
     'formativos-de-nina': {
         title: 'Formativos Niña',
         description: `Para los niños que ya caminan solos, y realizan una activa exploración de su entorno mediante el juego, Zapatitos Medical Shoes ofrece su línea para la edad preescolar.
@@ -98,12 +93,7 @@ Le ofrecemos para esta etapa de crecimiento un calzado que favorece la libertad 
 
 Cuenta con una suela antideslizante que se extiende hasta el talón y la punta, con un tacón tipo Thomas integrado para guiar los primeros pasos. La función de la suela se complementa con un acojinamiento que ayuda a sostener el tobillo y una forma envolvente en el interior del zapato para mayor firmeza.`
     },
-    'zapatos-para-plantillas': {
-        title: 'Zapatos para Plantillas',
-        description: `En algunas ocasiones nuestros hijos no requieren de correcciones en el calzado sino solo plantillas ortopédicas, para estos casos contamos con modelos fabricados con hormas adecuadas para adaptar estos soportes plantares sin lastimar el pie del niño.
 
-Hemos incluido en nuestro inventario también tennis ortopédicas especiales para estos casos con diseños y colores muy atractivos.`
-    },
     'productos-de-gel-y-fajas': {
         title: 'Productos de Gel y Fajas',
         description: `Productos de Gel:
@@ -126,7 +116,7 @@ export const categoryGroups: Record<string, string[]> = {
     'Ortopédicos': ['ortopedicos-hrecta-nina', 'ortopedicos-hrecta-nino', 'ortopedicos-hregular-nina', 'ortopedicos-hregular-nino'],
     'Diabéticos': ['diabeticos-dama', 'diabeticos-caballero', 'medias-para-diabeticos'],
     'Formativos': ['formativos-de-nina', 'formativos-de-nino'],
-    'Escolares y Plantillas': ['escolares-para-plantillas', 'zapatos-para-plantillas'],
+
     'Precaminadores': ['precaminadores-nina', 'precaminadores-nino'],
     'Otros Productos': ['productos-de-gel-y-fajas', 'servicios']
 };
@@ -156,12 +146,7 @@ export const mainCategories: GroupInfo[] = [
         image: '/images/categories/ortopedicos.jpeg',
         description: 'Corrección y prevención con diseños cómodos y modernos.'
     },
-    {
-        title: 'Escolares y Plantillas',
-        slug: 'escolares-y-plantillas',
-        image: '/images/categories/precaminadores.jpeg', // Fallback or find specific image if possible, reusing Precaminadores for now as per instructions or placeholder
-        description: 'Calzado profundo ideal para el uso de plantillas ortopédicas.'
-    },
+
     {
         title: 'Otros Productos',
         slug: 'otros-productos',
